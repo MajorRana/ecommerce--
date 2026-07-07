@@ -1,3 +1,4 @@
+"use client"
 import Carousel from '@/components/Carousel'
 import CategoryListing from '@/components/CategoryListing'
 import Featured from '@/components/Featured'
